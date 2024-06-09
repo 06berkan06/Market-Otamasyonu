@@ -5,6 +5,7 @@ Bunlar örnekler
 benimki![image](https://github.com/06berkan06/Market-Otamasyonu/assets/113473925/ef243bdc-82ab-4105-8fb4-b0dcd3d8e978)
 
 
+[Belge 1.pdf](https://github.com/user-attachments/files/15754356/Belge.1.pdf)
 
 
 create database market;
